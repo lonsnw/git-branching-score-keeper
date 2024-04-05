@@ -18,9 +18,16 @@ header {
 }
 
 .team1 {
-  background-color: gray;
+  background-color: hotpink;
+  text-align: center;
 }
 
 .team2 {
-  background-color: gray;
+  background-color: hotpink;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
